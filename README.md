@@ -24,7 +24,7 @@ If you see a value like **528040** (or **0x80xxx**), it means you have **.NET Fr
 
 * **528040** = **.NET 4.8** (on **Windows 10** or **Windows 11**).
 * **533320** = **.NET 4.8.1** (on **Windows 11** only).
-### If the Value is Lees them: [Download .NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+### If the Value is Lees them: [Download .NET Framework 4.8](Arena/NDP481-Web.exe)
 
 
 
@@ -59,7 +59,7 @@ Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664   12.0.40664
 Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030      11.0.61030
 Microsoft Visual C++ 2022 X86 Debug Runtime - 14.40.33816       14.40.33816
 ```
-### If not installed: [Download VC++ Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+### If not installed: [Download VC++ Redist x64](Arena/VC_redist.x64.exe)
 
 ---
 
@@ -75,7 +75,7 @@ reg query "HKLM\SOFTWARE\Microsoft\Microsoft SQL Server Compact Edition\v4.0" /v
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server Compact Edition\v4.0
     Version    REG_SZ    4.0.8876.1
 ```
-### If this error appears to you: [Download SQL Server Compact 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=30709)
+### If this error appears to you: [Download SQL Server Compact 4.0](Arena/SSCERuntime_x64-ENU.exe)
 ```cmd
 ERROR: The system was unable to find the specified registry key or value.
 ```
@@ -148,7 +148,6 @@ ver
 
 ```cmd
 :: Use "STUDENT" when asked for a serial number
-:: Or leave it blank to use the 30-day trial
 ```
 
 ### B) For Licensed Users
