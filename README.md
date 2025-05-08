@@ -173,9 +173,3 @@ ver
 
 ---
 
-## Additional Resources
-
-- [Download Arena Trial](https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html)  
-- [Official User Manual](https://literature.rockwellautomation.com/idc/groups/literature/documents/um/arena-um001_-en-p.pdf)
-
----
