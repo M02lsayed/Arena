@@ -142,55 +142,25 @@ ver
 ---
 
 
-## 3. Install Arena Simulation [Download ](Arena/ctipaj3z1kn0t5b01k3dw3c2638819065350060153.exe)
+## 3. Install Arena Simulation [Download ](https://www.rockwellautomation.com/en-us/products/software/arena-simulation/buying-options/download.html)
 
 ### A) For Students (No License)
 
 ```cmd
-:: Use "STUDENT" when asked for a serial number
+:: Write Your Name
 ```
 
 ### B) For Licensed Users
 
 ```cmd
 :: Enter the serial number provided by your university/company
+:: Zagazig University
 ```
-
----
-
-## 4. Verify Installation
+### C) For Students (No License)
 
 ```cmd
-:: Search for Arena files
-dir /s "C:\Program Files\Rockwell Software\Arena"
-
-:: Check Start Menu shortcut
-dir "%ProgramData%\Microsoft\Windows\Start Menu\Programs\Rockwell Software\Arena.lnk"
+:: Use "STUDENT" when asked for a serial number
 ```
-
----
-
-## 5. Troubleshooting
-
-### A) .NET Errors
-
-```cmd
-:: Repair .NET installation
-start https://aka.ms/netfxrepairtool
-```
-
-[Download .NET Repair Tool](https://aka.ms/netfxrepairtool)
-
----
-
-### B) Visual C++ Errors
-
-```cmd
-:: Reinstall VC++ Redist
-start https://aka.ms/vs/17/release/vc_redist.x64.exe
-```
-
-[Download VC++ Redist Again](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 ---
 
